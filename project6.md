@@ -1,3 +1,5 @@
+## WEB SOLUTION WITH WORDPRESS
+
 #### Creating the webserver instance & volumnes
 
 - I started by creating a new EC2 instance with redhat operating system named "webserver"
